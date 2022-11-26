@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="user_name">Daniel Rocha</string>
+    <string name="role_name">"Android Developer "</string>
+    <string name="user_contact">+55 98 984360596</string>
+    <string name="github_shared">\@dannRocha</string>
+    <string name="github_shared_link">https://github.com/dannrocha</string>
+    <string name="user_email">rochadaniel.rs@gmail.com</string>
+</resources>
